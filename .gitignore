@@ -1,0 +1,8 @@
+# Exclude environment files
+.env
+
+# Exclude compiled Python files
+*.pyc
+
+# Exclude Mac OS specific files
+.DS_Store
