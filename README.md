@@ -10,7 +10,7 @@ This project contains a Python script for automated trading of stocks with high 
 4. Set up your API keys for Finnhub and Alpaca in the script.
 
 ## Usage
-Run the script with `python trading_bot.py`.
+Run the script with `python execute_trade.py`.
 
 ## Disclaimer
 This script is for educational purposes only. Use at your own risk. Trading involves financial risk.
